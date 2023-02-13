@@ -1,0 +1,30 @@
+c:\users\shefry technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\License Managment Solution.exe.config
+c:\users\shefry technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\License Managment Solution.exe
+c:\users\shefry technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\License Managment Solution.pdb
+c:\users\shefry technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License Managment Solution.csprojResolveAssemblyReference.cache
+c:\users\shefry technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License_Managment_Solution.Form1.resources
+c:\users\shefry technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License_Managment_Solution.Properties.Resources.resources
+c:\users\shefry technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License Managment Solution.csproj.GenerateResource.Cache
+c:\users\shefry technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License Managment Solution.exe
+c:\users\shefry technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License Managment Solution.pdb
+C:\Users\Shefry Technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License_Managment_Solution.Dashboard.resources
+C:\Users\Shefry Technologies\documents\visual studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License_Managment_Solution.CreateForm.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\License Managment Solution.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\License Managment Solution.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\License Managment Solution.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License Managment Solution.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License_Managment_Solution.CreateForm.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License_Managment_Solution.Dashboard.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License_Managment_Solution.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License_Managment_Solution.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License Managment Solution.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License Managment Solution.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\obj\Debug\License Managment Solution.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\EntityFramework.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\EntityFramework.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\License Managment Solution\License Managment Solution\bin\Debug\System.Data.SQLite.xml
