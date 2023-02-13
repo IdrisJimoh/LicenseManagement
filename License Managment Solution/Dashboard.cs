@@ -94,6 +94,9 @@ namespace License_Managment_Solution
             licenseform.Show();
         }
 
-       
+        private void Button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

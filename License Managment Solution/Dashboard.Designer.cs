@@ -79,6 +79,7 @@
             this.Button2.TabIndex = 5;
             this.Button2.Text = "Edit Existing License";
             this.Button2.UseVisualStyleBackColor = true;
+            this.Button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // Button3
             // 
